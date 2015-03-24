@@ -15,6 +15,7 @@
 		<li><a href="record.php">歷史紀錄</a></li>
 		<li><a href="login.php">會員資料修改</a></li>
 		<li><a href="manager_login.php">管理者專區</a></li>
+        <li><a href="manager_login.php">管理者專區</a></li>
 	</ul>
 </div>
 <div id="CONTENT">
